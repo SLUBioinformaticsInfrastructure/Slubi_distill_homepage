@@ -3,7 +3,7 @@ title: "SLU bioinformatics infrastucture "
 description: |
   Slubi homepage
 # theme: slubi_homepage_theme.css
-output_dir: "_site"
+output_dir: "docs"
 navbar:
   logo:
     image: images/SLUBI_logo.png
