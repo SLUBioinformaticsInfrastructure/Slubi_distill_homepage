@@ -1,0 +1,8 @@
+
+# to render the homepage in R studio
+install.packages("distill")
+
+# to create an attractive personal bio/contact page
+install.packages("postcards")
+
+postcards::create_postcard("name.Rmd")

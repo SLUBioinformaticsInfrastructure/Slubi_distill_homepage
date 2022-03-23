@@ -1,0 +1,42 @@
+---
+title: "Our team"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, out.width= "65%", out.extra='style="float:right; padding:10px"')
+```
+
+
+::: {.floatting}
+```{r out.width='30%', out.extra='style="float:left; padding:20px"'}
+knitr::include_graphics("images/Dirk-Jan_de_Koning.jpg")
+```
+<br><br><br>
+Dirk-Jan de Koning, chair of board (VH, Ultuna)
+:::
+
+
+::: {.floatting}
+```{r out.width='30%', out.extra='style="float:right; padding:20px"'}
+knitr::include_graphics("images/Stephanie_Robert.jpeg")
+```
+<br><br><br>
+Stéphanie Robert, board member (S, Umeå)
+:::
+
+::: {.floatting}
+```{r out.width='30%', out.extra='style="float:left; padding:20px"'}
+knitr::include_graphics("images/AndersCarlsson_jsg.jpg")
+```
+<br><br><br>
+Anders Carlsson, board member (LTV, Alnarp)
+:::
+
+
+::: {.floatting}
+```{r out.width='30%', out.extra='style="float:right; padding:20px"'}
+knitr::include_graphics("images/Foto_JohanMeijer.jpg")
+```
+<br><br><br>
+Johan Meijer, board member (NJ, Ultuna)
+:::
