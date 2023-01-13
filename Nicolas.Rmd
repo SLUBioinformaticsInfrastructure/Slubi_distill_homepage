@@ -3,17 +3,14 @@ title: "Nicolas Delhomme"
 image: "images/NicolasDelhomme_9704.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://se.linkedin.com/in/nicolas-delhomme-a1348210/"
   - label: GitHub
-    url: "https://github.com/"
+    url: "https://github.com/nicolasDelhomme/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "nicolas.delhomme@slu.se"
 output:
   postcards::jolla
 ---
- 
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+
+
+Geneticist by training, bioinformatician/biostatistician in practice, interested in gene regulation in a systems biology context, expert in expression profiling. Researcher, bioinformatician and UPSC Bioinformatics Facility Manager in Umeå.
