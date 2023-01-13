@@ -11,16 +11,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Upcoming and current events:**
 
-We want to welcome out newest bioinformatician, Abu Bakar Siddique! Welcome to our team!
+We want to welcome out newest bioinformatician, Lizel Potgieter! She will be Slubi's link to our colleagues in Alnarp. Welcome to our team!
 
 **Past events:**
+
+Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2022
+
+[Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2022
 
 Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2021
 
 Statistics seminar series, arranged by SLUs centre of statistics - winter 2021
 
 [Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2021
-
 
 Analysis of High Throughput Sequencing RNA-Seq Data - winter 2020
 

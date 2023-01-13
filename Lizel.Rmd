@@ -1,0 +1,21 @@
+---
+title: "Lizel Potgieter"
+image: "images/potgieter.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lizel-potgieter"
+  - label: GitHub
+    url: "https://github.com/lpotgieter"
+  - label: Twitter
+    url: "https://twitter.com/l73217"
+  - label: Mastodon
+    url: "@l73217@mastodon.social"
+  - label: Email
+    url: "mailto:lizel.potgieter@slu.se"
+output:
+  postcards::jolla
+---
+ 
+I am a trained molecular biologist turned bioinformatician, based at LTV in Alnarp
+
+Comparative genomics, population genomics, variant calling, genome assembly and annotation

@@ -26,10 +26,10 @@ knitr::include_graphics("images/NicolasDelhomme_9704.jpg")
 
 ::: {.floatting}
 ```{r out.width='30%', out.extra='style="float:left; padding:20px"'}
-knitr::include_graphics("images/Varma.jpg")
+knitr::include_graphics("images/potgieter.jpg")
 ```
 <br><br><br>
-[Ganapathi Varma Saripella (a.k.a. Varma), expert bioinformatician (LTV, Alnarp)](Varma.html)
+[Lizel Potgieter, expert bioinformatician (LTV, Alnarp)](Lizel.html)
 :::
 
 
@@ -47,5 +47,5 @@ knitr::include_graphics("images/AdnanNiazi.jpg")
 knitr::include_graphics("images/Abu.jpg")
 ```
 <br><br><br>
-[Abu Bakar Siddique, expert bioinformatician (NJ, Alnarp)](Abu_Bakar.html)
+[Abu Bakar Siddique, expert bioinformatician (NJ, Ultuna)](Abu_Bakar.html)
 :::
