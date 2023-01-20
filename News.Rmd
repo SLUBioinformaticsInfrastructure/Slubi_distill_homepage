@@ -11,23 +11,30 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Upcoming and current events:**
 
+Course: Applied population genetics in plant disease epideniology. 1st - 17th of March 2023
+
+<center>
+  ![](images/population_genetics.png){#id .class width=100% height=100%}
+
+
+
 We want to welcome out newest bioinformatician, Lizel Potgieter! She will be Slubi's link to our colleagues in Alnarp. Welcome to our team!
 
 **Past events:**
 
-Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2022
+Course: Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2022
 
 [Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2022
 
-Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2021
+Course: Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2021
 
 Statistics seminar series, arranged by SLUs centre of statistics - winter 2021
 
 [Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2021
 
-Analysis of High Throughput Sequencing RNA-Seq Data - winter 2020
+Course: Analysis of High Throughput Sequencing RNA-Seq Data - winter 2020
 
-Introduction to bioinformatics - Ultuna - spring 2020
+Course: Introduction to bioinformatics - Ultuna - spring 2020
 
 Uppmax information meeting - Ultuna -  spring 2019
 
