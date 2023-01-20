@@ -25,8 +25,8 @@
       "path": "Board.html",
       "title": "Steering committee",
       "author": [],
-      "contents": "\n\n\n\n\n Dirk-Jan de Koning, chair of board (VH, Ultuna)\n\n\n\n\n\n Stéphanie Robert, board member (S, Umeå)\n\n\n\n\n\n Anders Carlsson, board member (LTV, Alnarp)\n\n\n\n\n\n Johan Meijer, board member (NJ, Ultuna)\n\n\n\n\n",
-      "last_modified": "2022-03-23T21:36:35+01:00"
+      "contents": "\n\n\n\n\n Dirk-Jan de Koning, chair of board (VH, Ultuna)\n\n\n\n\n\n Stéphanie Robert, board member (S, Umeå)\n\n\n\n\n\n Anders Carlsson, board member (LTV, Alnarp)\n\n\n\n\n\n Sara Hallin, board member (NJ, Ultuna)\n\n\n\n\n",
+      "last_modified": "2023-01-20T10:52:28+01:00"
     },
     {
       "path": "Drop_ins.html",
@@ -48,8 +48,8 @@
       "path": "index.html",
       "title": "Welcome to SLUBI",
       "author": [],
-      "contents": "\n\nThe SLU bioinformatics infrastructure\nSveriges lantbruksuniversitet - Swedish University of Agricultural Sciences\nOur goal is to provide support and training in bioinformatics for SLU staff, and to build a strong community of bioinformaticians within SLU. Our staff is located on the 3 SLU campuses in Ultuna, Umeå and Alnarp. We want to join forces and coordinate teaching activities, common resources (hardware, software).\n\n\n\n\n\n\n",
-      "last_modified": "2023-01-13T10:57:11+01:00"
+      "contents": "\n\nThe SLU bioinformatics infrastructure\nSveriges lantbruksuniversitet - Swedish University of Agricultural\nSciences\nOur goal is to provide support and training in bioinformatics for SLU\nstaff, and to build a strong community of bioinformaticians within SLU.\nOur staff is located on the 3 SLU campuses in Ultuna, Umeå and Alnarp.\nWe want to join forces and coordinate teaching activities, common\nresources (hardware, software).\n\n\n\n\n\n\n",
+      "last_modified": "2023-01-20T10:52:50+01:00"
     },
     {
       "path": "Lizel.html",

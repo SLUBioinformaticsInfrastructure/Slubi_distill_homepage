@@ -7,3 +7,12 @@ install.packages("postcards")
 
 postcards::create_postcard("name.Rmd")
 
+
+git pull
+
+git add filename or .
+
+git commit -m "message"
+
+git push
+

@@ -35,8 +35,8 @@ Anders Carlsson, board member (LTV, Alnarp)
 
 ::: {.floatting}
 ```{r out.width='30%', out.extra='style="float:right; padding:20px"'}
-knitr::include_graphics("images/Foto_JohanMeijer.jpg")
+knitr::include_graphics("images/SaraHallin.jpg")
 ```
 <br><br><br>
-Johan Meijer, board member (NJ, Ultuna)
+Sara Hallin, board member (NJ, Ultuna)
 :::
