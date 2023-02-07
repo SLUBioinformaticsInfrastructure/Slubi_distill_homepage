@@ -16,4 +16,4 @@ output:
  
 bioinformatician (based at NJ in Ultuna)
 
-Metagenomics, DNASeq,Shotgun Seq, Metabarcoding (ITS), WGS analysis, Read Mapping, Genome assembly and annotation, wetlab: DNA, PCR, HTS library prep.
+Metagenomics, DNASeq, Shotgun Seq, Metabarcoding (ITS), WGS analysis, Read Mapping, Genome assembly and annotation, wetlab: DNA, PCR, HTS library prep.
