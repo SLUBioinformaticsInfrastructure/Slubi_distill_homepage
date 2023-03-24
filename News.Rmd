@@ -11,26 +11,25 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Upcoming and current events:**
 
-Course: Applied population genetics in plant disease epideniology. 1st - 17th of March 2023
-
-<center>
-  ![](images/population_genetics.png){#id .class width=100% height=100%}
-
-
-
-We want to welcome out newest bioinformatician, Lizel Potgieter! She will be Slubi's link to our colleagues in Alnarp. Welcome to our team!
+</center>
 
 **Past events:**
 
+SLUBI day 2023, discuss the future of Uppmax, SLU computing resources and the new National Academic Infrastructure for Supercomputing in Sweden (NAISS), and have a fika with all interested bioinformaticians in Ultuna - Ultuna spring 2023
+
+Course: Applied population genetics in plant disease epideniology, [Research School for Organism Biology](https://www.slu.se/en/graduate-schools/organism-biology/)  - Ultuna and online spring 2023
+
+Course: [Plant Biology for Protection and Breeding](https://www.slu.se/en/education/programmes-courses/course/BI1296/30092.2122/Plant-Biology-for-Breeding-and-Protection/), Msc course - spring 2023
+
 Course: Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2022
 
-[Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2022
+Course: [Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2022
 
 Course: Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2021
 
-Statistics seminar series, arranged by SLUs centre of statistics - winter 2021
+Statistics seminar series, arranged by SLU's [Centre for Statistics](https://www.slu.se/en/Collaborative-Centres-and-Projects/centreforstatistics/) - winter 2021
 
-[Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2021
+Course: [Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2021
 
 Course: Analysis of High Throughput Sequencing RNA-Seq Data - winter 2020
 
@@ -40,13 +39,12 @@ Uppmax information meeting - Ultuna -  spring 2019
 
 R workshop: SLUBI and the research school GS-VMAS jointly organised a R-day for researchers and supervisors. - autumn 2019
 
-GS-VMAS_poster
-SLUBI day on the 4th of June 2018
+SLUBI day - summer 2018
 
-SLUBIday_June2018
-Kick-off meeting 27th of October 2017
-
-SLUBI’s Kick-off meeting 
+SLUBI’s Kick-off meeting - autumn 2017
 
 
-</center>
+
+
+<center>
+![](images/group_pic.jpeg){#id .class width=60%}

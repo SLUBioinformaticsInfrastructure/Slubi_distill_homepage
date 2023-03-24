@@ -1,6 +1,6 @@
 ---
 title: "Abu Bakar Siddique"
-image: "images/Abu.jpg"
+image: "images/Abu_2023.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/abu-bakar-siddique-11541861/"

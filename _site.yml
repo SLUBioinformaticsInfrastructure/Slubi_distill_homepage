@@ -16,10 +16,12 @@ navbar:
           href: Support_what.html
         - text: "How to get support"
           href: Support_how.html
-        - text: "Computing resources"
+        - text: "Online resources"
           href: Support_resources.html
     - text: "Drop-ins"
       href: Drop_ins.html
+    - text: "Fika"
+      href: Social.html
     - text: "About us"
       menu:
         - text: "Organisation"

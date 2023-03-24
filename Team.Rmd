@@ -44,7 +44,7 @@ knitr::include_graphics("images/AdnanNiazi.jpg")
 
 ::: {.floatting}
 ```{r out.width='30%', out.extra='style="float:left; padding:20px"'}
-knitr::include_graphics("images/Abu.jpg")
+knitr::include_graphics("images/Abu_2023.jpg")
 ```
 <br><br><br>
 [Abu Bakar Siddique, expert bioinformatician (NJ, Ultuna)](Abu_Bakar.html)
