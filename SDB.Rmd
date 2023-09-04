@@ -9,7 +9,7 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
   <center>
-  ![](images/SDB2.png){#id .class width=75% height=75%}
+  ![](images/SDB2.png){#id .class width=100%}
   </center>
 **Registration is now open!**
 Please register [here](https://forms.gle/M5zstCR3M8FUE9r37). 
