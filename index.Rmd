@@ -12,13 +12,19 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 <center>
-**We are proud to present: 
-SLU's Day of Bioinformatics:
+**We are proud to present: \
+SLU's Day of Bioinformatics: \
 **
 [click here for more information!](SDB.html)
 
+</center>
 
-**The SLU bioinformatics infrastructure**
+<center>
+  ![](images/Advert_SLU.png){width=60%} 
+</center>
+
+<center>
+**Who are we: The SLU bioinformatics infrastructure**
 
 Sveriges lantbruksuniversitet - Swedish University of Agricultural Sciences
 
@@ -27,6 +33,7 @@ Our goal is to provide support and training in bioinformatics for SLU staff, and
 
 </center>
 
-  <center>
+
+<center>
   ![](images/flagga.jpg){#id .class width=75% height=75%}
-  </center>
+</center>

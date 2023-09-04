@@ -1,8 +1,9 @@
 ---
 title: "SLU's Day of Bioinformatics"
 description: |
-  Monday, 25th of September 2023, 09:00 - 16:00
-  Campus Ultuna, VHC, plan 2, sal Särimner or via Zoom
+  Monday, 25th of September 2023, 09:00 - 16:00 \
+  Campus Ultuna, VHC, plan 2, sal Särimner \
+  or via Zoom
 ---
 
 ```{r setup, include=FALSE}
@@ -10,10 +11,13 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
   <center>
   ![](images/SDB2.png){#id .class width=100%}
-  </center>
-**Registration is now open!**
-Please register [here](https://forms.gle/M5zstCR3M8FUE9r37). 
+  </center> \
+**Registration is now open!** \
+The symposium is free for everyone to attend, but to be able to plan the event we would like everyone to register attendance. \
+Please register [here](https://forms.gle/M5zstCR3M8FUE9r37). \
 
+
+**Program** \
 Information on the program will soon follow. 
 But as a little sneak peak we will hear about the genetics of hair growth in horses, the use of environmental DNA for pathogen detection, digitalization in agriculture, genome edited potatos and much more. 
 
