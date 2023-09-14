@@ -15,6 +15,7 @@ knitr::opts_chunk$set(echo = FALSE)
 **Registration is now open!** \
 The symposium is free for everyone to attend, but to be able to plan the event we would like everyone to register attendance. \
 Please register [here](https://forms.gle/M5zstCR3M8FUE9r37). \
+For in-person participation with fika and lunch options please register latest on Monday the 18th of September. \
 
 We are looking forward to seeing you there! \
 
