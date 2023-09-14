@@ -2,8 +2,8 @@
 title: "SLU's Day of Bioinformatics"
 description: |
   Monday, 25th of September 2023, 09:00 - 15:00 \
-  Campus Ultuna, VHC, plan 2, sal Särimner \
-  Campus Alnarp, Horticum, sal Triticum \
+  Campus Ultuna, in person, VHC, plan 2, sal Särimner \
+  Campus Alnarp, remotely, Horticum, sal Triticum \
   or via Zoom
 ---
 
