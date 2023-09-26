@@ -11,17 +11,6 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-<center>
-**We are proud to present: \
-SLU's Day of Bioinformatics: \
-**
-[click here for more information!](SDB.html)
-
-</center>
-
-<center>
-  ![](images/Advert_SLU.png){width=60%} 
-</center>
 
 <center>
 **Who are we: The SLU bioinformatics infrastructure**

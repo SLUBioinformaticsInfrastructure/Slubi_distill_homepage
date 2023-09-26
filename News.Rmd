@@ -7,13 +7,27 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 <center>
-
-
 **Upcoming and current events:**
 
 </center>
 
+Course: [Introduction to bioinformatics](https://personalkurser.slu.se/kurser/kurs.cfm?KursID=PVS0141&oid=10) - Ultuna and online - autumn 2023
+
+Course: Analysis of High Throughput Sequencing RNA-Seq Data - online - winter 2023
+
+
+<center>
 **Past events:**
+
+</center>
+
+[SLU's Day of Bioinformatics](SDB.html) - hear about exciting research at SLU, made possible through bioinformatics, autumn 2023 
+
+<center>
+  ![](images/Advert_SLU.png){width=60%} 
+</center>
+
+Course: Applied Bioinformatics, [MedBioInfo](https://www.medbioinfo.se/) - Ultuna, spring 2023
 
 SLUBI day 2023, discuss the future of Uppmax, SLU computing resources and the new National Academic Infrastructure for Supercomputing in Sweden (NAISS), and have a fika with all interested bioinformaticians in Ultuna - Ultuna spring 2023
 
