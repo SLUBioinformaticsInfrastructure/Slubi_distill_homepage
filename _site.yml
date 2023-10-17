@@ -20,6 +20,8 @@ navbar:
           href: Support_resources.html
     - text: "Drop-ins"
       href: Drop_ins.html
+    - text: "3 bees"
+      href: 3BS.html
     - text: "Fika"
       href: Social.html
     - text: "About us"

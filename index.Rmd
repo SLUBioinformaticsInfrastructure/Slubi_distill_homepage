@@ -11,8 +11,22 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/website.html
 
 ```
-
 <center>
+We are proud to present our new collaborative workshop series, Three Bees: 
+
+
+  ![](images/3bees_fulltext_ampersand2.png){#id .class width=70%}
+
+
+Imagine basic statistical concepts and bioinformatics tools explained to you by experts. Informative lessons and hands-on coding exercises on a variety of topics. 
+
+We make it possible in our collaboration with SLU's Center for Statistics. 
+
+More information [here](3BS.html).
+</center>
+<br>
+
+
 **Who are we: The SLU bioinformatics infrastructure**
 
 Sveriges lantbruksuniversitet - Swedish University of Agricultural Sciences
@@ -20,7 +34,7 @@ Sveriges lantbruksuniversitet - Swedish University of Agricultural Sciences
 
 Our goal is to provide support and training in bioinformatics for SLU staff, and to build a strong community of bioinformaticians within SLU. Our staff is located on the 3 SLU campuses in Ultuna, Umeå and Alnarp. We want to join forces and coordinate teaching activities, common resources (hardware, software).
 
-</center>
+
 
 
 <center>
