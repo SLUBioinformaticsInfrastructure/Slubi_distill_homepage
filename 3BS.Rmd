@@ -22,7 +22,7 @@ SLUBI and the SLU Centre for Statistics are bringing you a new series focused on
 
 We are starting a topic-driven discussion series where Adam Flöhr from the Centre for Statistics will discuss the statistical magic behind some of the common methods we use, and Lizel Potgieter from SLUBI will use data to show a hands-on example of how to execute the analyses. \
 
-All data and codes will be available at https://github.com/lpotgieter/slu_bioinformatics
+All data and codes will be available at https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series.
 
 
 **Program** \
