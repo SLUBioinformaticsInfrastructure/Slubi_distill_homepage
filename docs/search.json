@@ -6,7 +6,7 @@
       "description": "practical concepts and coding for everyone",
       "author": [],
       "contents": "\n\n\n\n\n\nSLUBI and the SLU Centre for Statistics are bringing you a new series focused on R and applications in bioinformatics.\nMondays in even weeks, 09:30 Campus Alnarp, Horticum or via Zoom (Password: 410 410) \n\nWe are starting a topic-driven discussion series where Adam Flöhr from the Centre for Statistics will discuss the statistical magic behind some of the common methods we use, and Lizel Potgieter from SLUBI will use data to show a hands-on example of how to execute the analyses.\nAll data and codes will be available at https://github.com/SLUBioinformaticsInfrastructure/Three_Bees_Workshop_Series.\nProgram\n\n\nDate\n\n\nTopic\n\n\n13th Nov 2023\n\n\nIntroduction to R\n\n\n27th Nov 2023\n\n\nLinux Basics\n\n\n11th Dec 2023\n\n\nTheory and practice PCA\n\n\n15th Jan.2024\n\n\nIntroduction to Markdown\n\n\n29th Jan.2024\n\n\nPopulation Structure\n\n\nWe want to serve the SLU bioinformatics communities, and will open the floor to topic suggestions after the first 5 meetings.\n\n\n\n",
-      "last_modified": "2023-10-27T13:48:41+02:00"
+      "last_modified": "2024-01-08T15:34:02+01:00"
     },
     {
       "path": "Abu_Bakar.html",
@@ -55,9 +55,10 @@
     {
       "path": "index.html",
       "title": "Welcome to SLUBI",
+      "description": "SLU's bioinformatics infrastructure\n",
       "author": [],
       "contents": "\n\nWe are proud to present our new collaborative workshop series, Three Bees:\n\nImagine basic statistical concepts and bioinformatics tools explained to you by experts. Informative lessons and hands-on coding exercises on a variety of topics.\nWe make it possible in our collaboration with SLU’s Center for Statistics.\nMore information here.\n\n\nWho are we: The SLU bioinformatics infrastructure\nSveriges lantbruksuniversitet - Swedish University of Agricultural Sciences\nOur goal is to provide support and training in bioinformatics for SLU staff, and to build a strong community of bioinformaticians within SLU. Our staff is located on the 3 SLU campuses in Ultuna, Umeå and Alnarp. We want to join forces and coordinate teaching activities, common resources (hardware, software).\n\n\n\n\n\n",
-      "last_modified": "2023-10-17T11:19:00+02:00"
+      "last_modified": "2024-01-09T08:40:23+01:00"
     },
     {
       "path": "Lizel.html",

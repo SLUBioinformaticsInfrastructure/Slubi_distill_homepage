@@ -1,6 +1,7 @@
 ---
 title: "Welcome to SLUBI"
-description:
+description: |
+  SLU's bioinformatics infrastructure
 site: distill::distill_website
 ---
 
