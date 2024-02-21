@@ -34,7 +34,7 @@ library("xlsx")
 library(knitr)
 library(kableExtra)
 table <- read.xlsx("3bees_schedule.xlsx", 1, header=TRUE)
-dt <- table[1:5,1:2]
+dt <- table[1:9,1:2]
 dt %>%
   kbl() %>%
   kable_material(c("striped", "hover"))
